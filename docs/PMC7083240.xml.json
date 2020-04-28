@@ -1,0 +1,601 @@
+{
+    "paper_id": "PMC7083240",
+    "metadata": {
+        "title": "COVID-19 and smoking: A systematic review of the evidence",
+        "authors": [
+            {
+                "first": "Constantine",
+                "middle": [
+                    "I."
+                ],
+                "last": "Vardavas",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Katerina",
+                "middle": [],
+                "last": "Nikitara",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "COVID-19 is a coronavirus outbreak that initially appeared in Wuhan, Hubei Province, China, in December 2019, but it has already evolved into a pandemic spreading rapidly worldwide1,2. As of 18 March 2020, a total number of 194909 cases of COVID-19 have been reported, including 7876 deaths, the majority of which have been reported in China (3242) and Italy (2505)3.",
+            "cite_spans": [
+                {
+                    "start": 180,
+                    "end": 181,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 182,
+                    "end": 183,
+                    "mention": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 365,
+                    "end": 366,
+                    "mention": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "However, as the pandemic is still unfortunately under progression, there are limited data with regard to the clinical characteristics of the patients as well as to their prognostic factors4. Smoking, to date, has been assumed to be possibly associated with adverse disease prognosis, as extensive evidence has highlighted the negative impact of tobacco use on lung health and its causal association with a plethora of respiratory diseases5. Smoking is also detrimental to the immune system and its responsiveness to infections, making smokers more vulnerable to infectious diseases6. Previous studies have shown that smokers are twice more likely than non-smokers to contract influenza and have more severe symptoms, while smokers were also noted to have higher mortality in the previous MERS-CoV outbreak7,8.",
+            "cite_spans": [
+                {
+                    "start": 188,
+                    "end": 189,
+                    "mention": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 438,
+                    "end": 439,
+                    "mention": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 581,
+                    "end": 582,
+                    "mention": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 805,
+                    "end": 806,
+                    "mention": "7",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 807,
+                    "end": 808,
+                    "mention": "8",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Given the gap in the evidence, we conducted a systematic review of studies on COVID-19 that included information on patients\u2019 smoking status to evaluate the association between smoking and COVID-19 outcomes including the severity of the disease, the need for mechanical ventilation, the need for intensive care unit (ICU) hospitalization and death.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "The literature search was conducted on 17 March 2020, using two databases (PubMed, ScienceDirect), with the search terms: [\u2018smoking\u2019 OR \u2018tobacco\u2019 OR \u2018risk factors\u2019 OR \u2018smoker*\u2019] AND [\u2018COVID-19\u2019 OR \u2018COVID 19\u2019 OR \u2018novel coronavirus\u2019 OR \u2018sars cov-2\u2019 OR \u2018sars cov 2\u2019] and included studies published in 2019 and 2020. Further inclusion criteria were that the studies were in English and referred to humans. We also searched the reference lists of the studies included. A total of 71 studies were retrieved through the search, of which 66 were excluded after full-text screening, leaving five studies that were included. All of the studies were conducted in China, four in Wuhan and one across provinces in mainland China. The populations in all studies were patients with COVID-19, and the sample size ranged from 41 to 1099 patients. With regard to the study design, retrospective and prospective methods were used, and the timeframe of all five studies covered the first two months of the COVID-19 pandemic (December 2019, January 2020).",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Specifically, Zhou et al.9 studied the epidemiological characteristics of 191 individuals infected with COVID-19, without, however, reporting in more detail the mortality risk factors and the clinical outcomes of the disease. Among the 191 patients, there were 54 deaths, while 137 survived. Among those that died, 9% were current smokers compared to 4% among those that survived, with no statistically significant difference between the smoking rates of survivors and non-survivors (p=0.21) with regard to mortality from COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 25,
+                    "end": 26,
+                    "mention": "9",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Similarly, Zhang et al.10 presented clinical characteristics of 140 patients with COVID-19. The results showed that among severe patients (n=58), 3.4% were current smokers and 6.9% were former smokers, in contrast to non-severe patients (n=82) among which 0% were current smokers and 3.7% were former smokers , leading to an OR of 2.23; (95% CI: 0.65\u20137.63; p=0.2).",
+            "cite_spans": [
+                {
+                    "start": 23,
+                    "end": 25,
+                    "mention": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Huang et al.11 studied the epidemiological characteristics of COVID-19 among 41 patients. In this study, none of those who needed to be admitted to an ICU (n=13) was a current smoker. In contrast, three patients from the non-ICU group were current smokers, with no statistically significant difference between the two groups of patients (p=0.31), albeit the small sample size of the study.",
+            "cite_spans": [
+                {
+                    "start": 12,
+                    "end": 14,
+                    "mention": "11",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "The largest study population of 1099 patients with COVID-19 was provided by Guan et al.12 from multiple regions of mainland China. Descriptive results on the smoking status of patients were provided for the 1099 patients, of which 173 had severe symptoms, and 926 had non-severe symptoms. Among the patients with severe symptoms, 16.9% were current smokers and 5.2% were former smokers, in contrast to patients with non-severe symptoms where 11.8% were current smokers and 1.3% were former smokers. Additionally, in the group of patients that either needed mechanical ventilation, admission to an ICU or died, 25.5% were current smokers and 7.6% were former smokers. In contrast, in the group of patients that did not have these adverse outcomes, only 11.8% were current smokers and 1.6% were former smokers. No statistical analysis for evaluating the association between the severity of the disease outcome and smoking status was conducted in that study.",
+            "cite_spans": [
+                {
+                    "start": 87,
+                    "end": 89,
+                    "mention": "12",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Finally, Liu et al.13 found among their population of 78 patients with COVID-19 that the adverse outcome group had a significantly higher proportion of patients with a history of smoking (27.3%) than the group that showed improvement or stabilization (3.0%), with this difference statistically significant at the p=0.018 level. In their multivariate logistic regression analysis, the history of smoking was a risk factor of disease progression (OR=14.28; 95% CI: 1.58\u201325.00; p= 0.018).",
+            "cite_spans": [
+                {
+                    "start": 19,
+                    "end": 21,
+                    "mention": "13",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "We identified five studies that reported data on the smoking status of patients infected with COVID-19. Notably, in the largest study that assessed severity, there were higher percentages of current and former smokers among patients that needed ICU support, mechanical ventilation or who had died, and a higher percentage of smokers among the severe cases12. However, from their published data we can calculate that the smokers were 1.4 times more likely (RR=1.4, 95% CI: 0.98\u20132.00) to have severe symptoms of COVID-19 and approximately 2.4 times more likely to be admitted to an ICU, need mechanical ventilation or die compared to non-smokers (RR=2.4, 95% CI: 1.43\u20134.04).",
+            "cite_spans": [
+                {
+                    "start": 355,
+                    "end": 357,
+                    "mention": "12",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "In conclusion, although further research is warranted as the weight of the evidence increases, with the limited available data, and although the above results are unadjusted for other factors that may impact disease progression, smoking is most likely associated with the negative progression and adverse outcomes of COVID-19.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Overview of the five studies included in the systematic review\n",
+            "type": "table"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study",
+            "authors": [
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "10225",
+            "pages": "689-697",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30260-9"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Early transmission dynamics in Wuhan, China, of novel coronavirus\u2013infected pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "Situation update worldwide, as of March 19 2020",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "The 2019 Novel Coronavirus Outbreak\u2013A Global Threat",
+            "authors": [
+                {
+                    "first": "WY",
+                    "middle": [],
+                    "last": "Khot",
+                    "suffix": ""
+                },
+                {
+                    "first": "MY",
+                    "middle": [],
+                    "last": "Nadkar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Assoc Physicians India",
+            "volume": "68",
+            "issn": "3",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Secular trends in smoking in relation to prevalent and incident smoking-related disease: A prospective population-based study",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Tonnesen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Marott",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Nordestgaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Bojesen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lange",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Tob Induc Dis",
+            "volume": "17",
+            "issn": "October",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.18332/tid/112459"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Are healthy smokers really healthy?",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Tob Induc Dis",
+            "volume": "14",
+            "issn": "November",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12971-016-0101-z"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "MERS transmission and risk factors: a systematic review",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Public Health",
+            "volume": "18",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12889-018-5484-8"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Cigarette smoking and infection",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Arcavi",
+                    "suffix": ""
+                },
+                {
+                    "first": "NL",
+                    "middle": [],
+                    "last": "Benowitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Arch Intern Med",
+            "volume": "164",
+            "issn": "20",
+            "pages": "2206-2216",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/archinte.164.20.2206"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30566-3"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Clinical characteristics of 140 patients infected by SARS-CoV-2 in Wuhan, China",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "YY",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Allergy",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1111/all.14238"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "10223",
+            "pages": "497-506",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Clinical characteristics of coronavirus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZY",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Analysis of factors associated with disease outcomes in hospitalised patients with 2019 novel coronavirus disease",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZW",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chin Med J",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1097/CM9.0000000000000775"
+                ]
+            }
+        }
+    }
+}
